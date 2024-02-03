@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\DO NOT CHANGE">
+      <UniqueIdentifier>{bbce892c-fba3-45ff-abd0-86f2f2f5b218}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Student Lab Files">
+      <UniqueIdentifier>{80f24e4e-0a5e-4ba3-9daa-cdc0cc0fb3d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\DO NOT CHANGE">
+      <UniqueIdentifier>{daefc353-3a1e-4ccb-85a2-dd1ab5afdc69}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TestFiles\BitStream.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\Console.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\DSA_Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\Memory_Management.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\TestHarness.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTestHelper.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab1.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab2.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab3.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab4.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab5.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab6.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab7.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+    <ClCompile Include="TestFiles\UnitTests_Lab8.cpp">
+      <Filter>Source Files\DO NOT CHANGE</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TestFiles\BitStream.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\Console.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\HuffmanLib.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\Memory_Management.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\ResultsLib.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\TestHarness.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTestHelper.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab1.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab2.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab3.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab4.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab5.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab6.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab7.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="TestFiles\UnitTests_Lab8.h">
+      <Filter>Header Files\DO NOT CHANGE</Filter>
+    </ClInclude>
+    <ClInclude Include="BST.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Dictionary.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DList.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DynArray.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Huffman.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lab2.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lab4.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Lab6.h">
+      <Filter>Header Files\Student Lab Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
