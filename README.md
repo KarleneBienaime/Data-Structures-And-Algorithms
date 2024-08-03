@@ -36,5 +36,6 @@ Each header file (.h) contains implementations of specific data structures or al
 
 ## Acknowledgments
 
-- Professor: Justin Tackett at Full Sail University   Contact: jtackett@fullsail.com
+- Professor: Justin Tackett @ Full Sail University
+- Contact: jtackett@fullsail.com
 				
